@@ -8,6 +8,6 @@ metadata:
 managedNodeGroups:
   - name: expense
     instanceType: t3.small
-    desiredCapacity: 3
+    desiredCapacity: 2
     spot: true
 
